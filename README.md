@@ -1,2 +1,2 @@
-##react-slider
+# react-slider
 
